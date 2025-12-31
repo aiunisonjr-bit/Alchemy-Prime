@@ -1,0 +1,17 @@
+{
+  "name": "Alchemy Prime",
+  "short_name": "Alchemy",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "description": "High-performance prompt generator optimized for large models, GPTs, and GPT Apps.",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 256 256'%3E%3Crect width='256' height='256' rx='48' fill='%2305060b'/%3E%3Cpath d='M64 192h128l-32-64V64h-64v64z' fill='%233b82f6'/%3E%3C/svg%3E",
+      "sizes": "256x256",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
